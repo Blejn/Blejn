@@ -1,4 +1,4 @@
-#👋 Hi, I’m Sebastian.
+#  Hi, I’m Sebastian.
 -I am 22 years old and I am a computer science student at the University of Economics in Katowice.
 
 - 👀 I’m interested in ...
